@@ -32,11 +32,12 @@
 <details><summary>第1章</summary>
 
 - [1] [similarweb Blog](https://www.similarweb.com/blog/insights/ai-news/chatgpt-birthday/)
-- [3] [similarweb社による上位ウェブサイトランキング](https://www.similarweb.com/ja/top-websites/), [ChatGPT への月間アクセス数](https://www.similarweb.com/ja/website/chatgpt.com/), 
+- [3] [similarweb社による上位ウェブサイトランキング](https://www.similarweb.com/ja/top-websites/), [ChatGPT への月間アクセス数](https://www.similarweb.com/ja/website/chatgpt.com/)
 - [5] [自治体AI zevo](https://prtimes.jp/main/html/rd/p/000000085.000056138.html)
 - [6] [埼玉県戸田市によるChatGPTに関する調査研究](https://www.city.toda.saitama.jp/uploaded/attachment/62855.pdf)
 - [7] [ディープフェイク（deepfake）を用いて作成されたCM動画](https://www.youtube.com/watch?v=XSUQwwOm3G4)
 - [8] [Bruce Willis denies selling rights to his face](https://www.bbc.com/news/technology-63106024)
+- [12] [Hugging Face](https://huggingface.co/), [Hugging Face](https://huggingface.co/), [Civitai](https://civitai.com/)
 - [17] [A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks](https://doi.org/10.48550/arXiv.2306.07303)
 - [21] [On the Opportunities and Risks of Foundation Models](https://doi.org/10.48550/arXiv.2108.07258)
 - [22] [Language Models are Few-Shot Learners](https://doi.org/10.48550/arXiv.2005.14165)
