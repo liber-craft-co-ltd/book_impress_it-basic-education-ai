@@ -84,8 +84,8 @@
 - [14] [pneumonoultramicroscopicsilicovolcanoconiosis](https://www.oed.com/dictionary/pneumonoultramicroscopicsilicovolcanoconiosis_n)
 - [20] [SentencePiece](https://github.com/google/sentencepiece)
 - [21] [OpenAIのTokenizer](https://platform.openai.com/tokenizer)
-- [33] [実践で学ぶBM25 - パート2：BM25のアルゴリズムと変数](https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables)
-- [40] [Efficient Estimation of Word Representations in Vector Space](https://doi.org/10.48550/arXiv.1301.3781)
+- [34] [実践で学ぶBM25 - パート2：BM25のアルゴリズムと変数](https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables)
+- [41] [Efficient Estimation of Word Representations in Vector Space](https://doi.org/10.48550/arXiv.1301.3781)
 </details>
 
 <details><summary>第4章</summary>
@@ -155,6 +155,7 @@
 <details><summary>第7章</summary>
 
 - [8] [Reproducibility in Keras Models](https://keras.io/examples/keras_recipes/reproducibility_recipes/)
+- [10] [Keras Dataset](https://keras.io/api/datasets/)
 - [19] [2-2 郵政省における“手書き文字読取方式”の区分機](https://doi.org/10.3169/itej1954.28.257)
 </details>
 
