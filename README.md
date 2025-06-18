@@ -11,19 +11,24 @@
 ## 第４章
 - 文章分類問題を解いてみよう
   - [chap04_movie_review_classification.ipynb](chap04_movie_review_classification.ipynb)
+    - [20250618修正版](./20250618_修正版/chap04_movie_review_classification.ipynb)
 ## 第５章
 - 言語モデルを動かしてみよう
   - [chap05_LLM_intro.ipynb](./chap05_LLM_intro.ipynb)
+    - [20250618修正版](./20250618_修正版/chap05_LLM_intro.ipynb)
     - ① 穴埋め問題を解くMLM
     - ② 次のトークンを予測するCLM
 ## 第７章
 - 画像分類問題を解いてみよう
   - [chap07_mnist_digit_classification.ipynb](chap07_mnist_digit_classification.ipynb)
+    - [20250618修正版](./20250618_修正版/chap07_mnist_digit_classification.ipynb)
 ## 第８章
 - オートエンコーダを作ってみよう
   - [chap08_mnist_digit_AutoEncoder.ipynb](chap08_mnist_digit_AutoEncoder.ipynb)
+    - [20250618修正版](./20250618_修正版/chap08_mnist_digit_AutoEncoder.ipynb)
 - VAEを作ってみよう
   - [chap08_mnist_digit_VAE.ipynb](chap08_mnist_digit_VAE.ipynb)
+    - [20250618修正版](./20250618_修正版/chap08_mnist_digit_VAE.ipynb)
 
 ---
 ### 参考：本書内で紹介した各URL
@@ -184,4 +189,6 @@
 
 ---
 更新履歴：
-- 
+- 2025.06.18: Colabのバージョン変更に伴い、コードを修正しました。
+  - [20250618_修正版](20250618_修正版)内に、現時点で動作確認したnotebook（.ipynbファイル）を格納しました
+  
